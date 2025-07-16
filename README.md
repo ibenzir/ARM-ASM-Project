@@ -42,9 +42,9 @@
    ```bash
    python3 assembler.py my_assembly.s my_assembly.bin
    ```
-3. **Verify Output**:
+3. **Verify Output** (For Windows OS):
    ```bash
-   xxd my_assembly.bin
+   Format-Hex my_assembly.bin
    ```
 
 ## **VS Code Automation**
