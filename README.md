@@ -63,3 +63,5 @@
   }
   ```
 - **Run Task**: `Ctrl + Shift + P` > “Tasks: Run Task” > “Assemble”.
+
+- **For Cross Platform**: [Read This](https://github.com/ibenzir/ARM-ASM-Project/blob/main/README_WSL.md).
